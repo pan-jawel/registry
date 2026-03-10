@@ -3340,6 +3340,49 @@
       "updated": "2026-03-03"
     },
     {
+      "name": "op-kurtlar-vadisi",
+      "display_name": "Kurtlar Vadisi Sound Pack",
+      "version": "1.1.0",
+      "description": "Kurtlar Vadisi Sound Pack (Episodes 1–97)",
+      "author": {
+        "name": "Ismail Sefa Nazlim",
+        "github": "maskapsiz"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "session.end",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "tr",
+      "license": "Personal Use Only",
+      "sound_count": 161,
+      "total_size_bytes": 4989197,
+      "source_repo": "maskapsiz/op-kurtlar-vadisi",
+      "source_ref": "v1.1.1",
+      "source_path": ".",
+      "manifest_sha256": "b507d83b8ce532bf4b8c83c290b8e82e53fec15049d7efef887fd029ec4d299c",
+      "tags": [
+        "racon",
+        "tv-series",
+        "kurtlar-vadisi",
+        "suleyman-cakir"
+      ],
+      "preview_sounds": [
+        "37/377_suleyman_cakir_istanbulun_seferidir.mp3",
+        "46/293_bak_aslan_bey_ben_mafya_babasiyim.mp3",
+        "05/223_ne_guzel_istanbul_be.mp3"
+      ],
+      "added": "2026-02-12",
+      "updated": "2026-03-10"
+    },
+    {
       "name": "otto",
       "display_name": "电棍otto",
       "version": "1.0.0",
