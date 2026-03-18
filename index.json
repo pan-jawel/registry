@@ -4522,9 +4522,9 @@
       "sound_count": 24,
       "total_size_bytes": 2951223,
       "source_repo": "PeonPing/og-packs",
-      "source_ref": "6a00fd54c3426feac1d5a1aad0f9c5ea7b91126a",
+      "source_ref": "c795d88964369d3c60a171a2d6a03cc28d4c0fd9",
       "source_path": "pulp_fiction",
-      "manifest_sha256": "1da25fb720e20ae3819fa2d30118c5b5c30251537dff55aa20b0534c97206b08",
+      "manifest_sha256": "1e085584c1beb73eac6449929e9a491d924b7ee1892861e9dd8c56f656488caf",
       "tags": [
         "movie-quotes",
         "tarantino",
@@ -4533,10 +4533,10 @@
       ],
       "preview_sounds": [
         "sounds/correctamundo.mp3",
-        "sounds/who's-zed-zed's-dead-baby-zed's-dead.mp3"
+        "sounds/whos-zed-zeds-dead-baby-zeds-dead.mp3"
       ],
       "added": "2026-03-13",
-      "updated": "2026-03-13"
+      "updated": "2026-03-18"
     },
     {
       "name": "r2d2",
