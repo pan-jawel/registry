@@ -3259,9 +3259,9 @@
       "language": "en",
       "license": "MIT",
       "sound_count": 41,
-      "total_size_bytes": 2079824,
+      "total_size_bytes": 9207808,
       "source_repo": "jmfiebak/openpeon-solaire-sound-pack",
-      "source_ref": "v1.0.2",
+      "source_ref": "v1.0.3",
       "source_path": ".",
       "manifest_sha256": "f2dc189cbe90a3a02731baab8bca1150b4a4e5e4009211bbec99c9c45c1df5db",
       "tags": [
@@ -3272,12 +3272,11 @@
         "knight"
       ],
       "preview_sounds": [
-        "SolaireChoiceIsYours.mp3",
         "SolaireHelloStillHere.mp3",
         "SolaireProposition.mp3"
       ],
       "added": "2026-03-23",
-      "updated": "2026-03-24"
+      "updated": "2026-03-25"
     },
     {
       "name": "duke_nukem",
