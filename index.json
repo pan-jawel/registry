@@ -4173,26 +4173,31 @@
 		{
 			"name": "jan_pawel_2",
 			"display_name": "Jan Pawel 2",
-			"version": "1.0.2",
+			"version": "1.0.6",
 			"description": "Jan Pawel 2, the greatest Pole of all time.",
 			"author": {
 				"name": "Pan Jawel",
 				"github": "pan-jawel"
 			},
 			"trust_tier": "community",
-			"categories": [
+		    "categories": [
+				"input.required",
+				"resource.limit",
+				"session.end",
 				"session.start",
+				"task.acknowledge",
 				"task.complete",
 				"task.error",
-				"input.required"
-			],
+				"task.progress",
+				"user.spam"
+		    ],
 			"language": "pl",
-			"license": "personal-use",
-			"sound_count": 12,
+			"license": "CC-BY-NC-4.0",
+			"sound_count": 60,
 			"source_repo": "pan-jawel/openpeon-jp2",
-			"source_ref": "v1.0.2",
+			"source_ref": "v1.0.6",
 			"source_path": ".",
-			"manifest_sha256": "81ec74e12ff170988291acc77d5e16869d6f6c94cb7c92c871e0b567f3d6bf17",
+			"manifest_sha256": "f4fbeaf7172c8d0231b49b5abff044d95bf043f5f020745c85a68d77d444574d",
 			"tags": [
 				"polish"
 			],
@@ -4201,7 +4206,7 @@
 				"co-mam-robic.mp3"
 			],
 			"added": "2026-03-25",
-			"updated": "2026-03-25"
+			"updated": "2026-03-27"
 		},
 		{
 			"name": "jarvis",
